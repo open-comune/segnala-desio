@@ -10,7 +10,7 @@ Se vuoi partecipare:
 
 1. [Registrati su GitHub](https://github.com/join)
 2. Comunicami il tuo *nome utente*, spedendomi un'e-mail a [root@olisti.co](mailto:root@olisti.co) o contattandomi direttamente
-3. [Crea una nuova Segnalazione](https://github.com/open-comune/progetta-desio/issues/new) o commenta una Segnalazione presente
+3. [Crea una nuova Segnalazione](https://github.com/open-comune/segnala-desio/issues/new) o commenta una Segnalazione presente
 
 Se hai qualche dubbio guarda la pagina [FAQ](FAQ.md).
 
