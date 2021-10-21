@@ -2,7 +2,7 @@
 
 Segnalazioni dei cittadini nei confronti dell'amministrazione comunale.
 
-Questo progetto fa parte del contenitore [Open Desio](http://open.desio.org).
+Questo progetto fa parte del contenitore [Open Desio](https://github.com/open-comune/desio).
 
 Guarda la [lista di tutte le Segnalazioni](https://github.com/open-comune/segnala-desio/issues) e vedi lo [stato di avanzamento corrente](https://github.com/open-comune/segnala-desio/projects/1).
 
